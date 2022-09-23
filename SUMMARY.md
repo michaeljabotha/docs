@@ -1,7 +1,13 @@
 # Table of contents
 
-* [Migrating Gitlab](README.md)
-* [Creating a backup](creating-a-backup.md)
-* [Restoring a Backup](restoring-a-backup.md)
-* [Adding a runner to Gitlab](adding-a-runner-to-gitlab.md)
-* [Adding a shell runner for scripts](adding-a-shell-runner-for-scripts.md)
+* [Introduction](README.md)
+
+## General MySql pages
+
+* [Creating a MySql dump](general-mysql-pages/creating-a-mysql-dump.md)
+* [Adding a permission](general-mysql-pages/adding-a-permission.md)
+* [Add support person to schema](general-mysql-pages/add-support-person-to-schema.md)
+
+## MySql with Kubernenetes
+
+* [Installation](mysql-with-kubernenetes/installation.md)
