@@ -1,13 +1,7 @@
 # Table of contents
 
-* [Introduction](README.md)
-
-## General MySql pages
-
-* [Creating a MySql dump](general-mysql-pages/creating-a-mysql-dump.md)
-* [Adding a permission](general-mysql-pages/adding-a-permission.md)
-* [Add support person to schema](general-mysql-pages/add-support-person-to-schema.md)
-
-## MySql with Kubernenetes
-
-* [Installation](mysql-with-kubernenetes/installation.md)
+* [1. .kube config](README.md)
+* [2. installing lens](2.-installing-lens.md)
+* [3. using lens](3.-using-lens.md)
+* [4. creating a tunnel for MySQL](4.-creating-a-tunnel-for-mysql.md)
+* [5. viewing logs](5.-viewing-logs.md)
