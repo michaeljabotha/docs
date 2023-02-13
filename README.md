@@ -16,5 +16,5 @@ Copy the contents of the file as shown in the modal. (You can click the Copy to 
 
 ![](<.gitbook/assets/Screenshot from 2021-10-28 12-53-42.png>)
 
-Armed with your clipboard please proceed to installing lens
+Armed with your clipboard please proceed to installing lens.
 
